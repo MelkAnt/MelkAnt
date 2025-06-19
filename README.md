@@ -4,7 +4,9 @@
 👨‍💻 Desenvolvedor focado em projetos Web, Java, PWA e análise de dados  
 📍 Recife - PE  
 🌱 Aprendendo: Java, Spring, Python, SQL
+
 🚀 Buscando oportunidade como desenvolvedor fullstack
+
 
 ---
 
