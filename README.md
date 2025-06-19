@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Melksedec
 
-<!--
-**MelkAnt/MelkAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+👨‍💻 Desenvolvedor focado em projetos Web, Java, PWA e análise de dados  
+📍 Recife - PE  
+🌱 Aprendendo: Java, Spring, Python, SQL,
+🚀 Buscando oportunidade como desenvolvedor fullstack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- 💻 Java, JavaScript, NextJs, ReactJs, NodeJs, Python, HTML, CSS
+- 🛢️ MySQL, PostgreSQL
+- 📊 Power BI, Jupyter, Pandas
+- ⚙️ Git, GitHub, VSC, IntelliJ
+
+---
+
+## 📈 GitHub Stats
+
+![MelkAnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelkAnt&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MelkAnt-blue?logo=linkedin)](https://www.linkedin.com/in/melksedec-silva-400b54185/)
