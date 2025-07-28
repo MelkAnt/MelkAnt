@@ -12,7 +12,7 @@
 ## 🛠️ Tecnologias
 
 
-- ⚡ Front-end: React, Next.js, TypeScript, HTML5, CSS3, Tailwind
+- ⚡ Front-end: Javascript, React.js, Next.js, TypeScript, HTML5, CSS3, Tailwind
 - 🛠️ Back-end: Java, Python, C#, Javascript
 - 🗄️ Banco de Dados: SqlServer, MySql, MongoDB, PostgreSQL
 - 🎨 Design: Figma, photoshop, Canva
